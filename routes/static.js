@@ -8,7 +8,8 @@ module.exports = function ( ) {
 
 		'handler' :  {
 			'directory' : {
-				'path'  : 'public'
+				'path'    : 'public',
+				'index'   : true
 			}
 		}
 	};
